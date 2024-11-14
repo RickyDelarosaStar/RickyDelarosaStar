@@ -25,14 +25,20 @@
 <p align="center">
   You can use this service for free. I'm looking for sponsors to help us keep up with this service❤️
 </p>
+
+
 <div align="center">
   <a href="https://github.com/sponsors/RickyDelarosaStar">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4" alt="Sponsor"/>
   </a>
 </div>
 
+<p align="center">
+  <img width="660" src="https://github-profile-trophy.vercel.app/?username=RickyDelarosaStar&theme=darkhub&hide_border=true">
+</p>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RickyDelarosa&theme=cobalt&hide_border=true&border_radius=7.5" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RickyDelarosaStar&theme=cobalt&hide_border=true&border_radius=7.5" alt="GitHub Streak" />
   <a href="https://github.com/RickyDelarosaStar/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyDelarosaStar&layout=donut&theme=vision-friendly-dark&hide_border=true" alt="Top Langs">
   </a>

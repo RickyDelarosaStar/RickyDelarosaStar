@@ -4,13 +4,22 @@
   <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your README</p>
 </div>
 <div align="center">
-
-[![stargazers](https://img.shields.io/github/stars/RickyDelarosaStar/github-profile-trophy)](https://github.com/RickyDelarosaStar/github-profile-trophy/stargazers)
-[![forks](https://img.shields.io/github/forks/RickyDelarosaStar/github-profile-trophy)](https://github.com/RickyDelarosaStar/github-profile-trophy/network/members)
-[![issues](https://img.shields.io/github/issues/RickyDelarosaStar/github-profile-trophy)](https://github.com/RickyDelarosaStar/github-profile-trophy/issues)
-[![license](https://img.shields.io/github/license/RickyDelarosaStar/github-profile-trophy)](https://github.com/RickyDelarosaStar/github-profile-trophy/blob/master/LICENSE)
-[![share](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FRickyDelarosaStar%2Fgithub-profile-trophy)](https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2FRickyDelarosaStar%2Fgithub-profile-trophy)
-<img src="https://komarev.com/ghpvc/?username=RickyDelarosaStar&style=flat-square&color=blue" alt=""/>
+  
+<a href="https://github.com/RickyDelarosaStar/github-readme-stats/graphs/contributors">
+  <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/RickyDelarosaStar/github-readme-stats" />
+</a>
+<a href="https://codecov.io/gh/RickyDelarosaStar/github-readme-stats">
+  <img alt="Tests Coverage" src="https://codecov.io/gh/RickyDelarosaStar/github-readme-stats/branch/master/graph/badge.svg" />
+</a>
+<a href="https://github.com/RickyDelarosaStar/github-readme-stats/issues">
+  <img alt="Issues" src="https://img.shields.io/github/issues/RickyDelarosaStar/github-readme-stats?color=0088ff" />
+</a>
+<a href="https://github.com/RickyDelarosaStar/github-readme-stats/pulls">
+  <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/RickyDelarosaStar/github-readme-stats?color=red" />
+</a>
+<a href="https://github.com/RickyDelarosaStar/github-readme-stats/ghpvc">
+  <img src="https://komarev.com/ghpvc/?username=RickyDelarosaStar&style=flat-square&color=blue" alt=""/>
+</a>
 
 </div>
 <p align="center">

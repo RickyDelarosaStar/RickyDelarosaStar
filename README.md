@@ -34,12 +34,12 @@
 </div>
 
 <p align="center">
-  <img width="660" src="https://github-profile-trophy.vercel.app/?username=RickyDelarosaStar&theme=darkhub&hide_border=true">
+  <img width="660" src="https://github-profile-trophy.vercel.app/?username=RickyDelarosaStar&hide_border=true">
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RickyDelarosaStar&theme=cobalt&hide_border=true&border_radius=7.5" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RickyDelarosaStar&hide_border=true&border_radius=7.5" alt="GitHub Streak" />
   <a href="https://github.com/RickyDelarosaStar/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyDelarosaStar&layout=donut&theme=vision-friendly-dark&hide_border=true" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyDelarosaStar&layout=donut&hide_border=true" alt="Top Langs">
   </a>
 </div>
